@@ -1,0 +1,34 @@
+{
+    "todos":[
+        {
+            "title": "Commit all changes of git branches to Github",
+            "responsible": "Marcelo",
+            "description": "Branch 21 of React project and branch 25 of Angular project",
+            "priority": "High"
+        },
+        {
+            "title": "Email Marcelo about iOS project",
+            "responsible": "Claudia",
+            "description": "Write explaing the changes on the schedules and meetings dates.",
+            "priority": "High"         
+        },
+        {
+            "title": "Plan trip to Chile",
+            "responsible": "Fredrik",
+            "description": "Consider the availability of fly tickets and meetings dates of projects.",
+            "priority": "Low"         
+        },
+        {
+            "title": "Plan projects for next month",
+            "responsible": "Mary",
+            "description": "Consider current projects and deadlines.",
+            "priority": "Low"         
+        },
+        {
+            "title": "Write a post about ReactJS",
+            "responsible": "Marcelo",
+            "description": "React basics, Redux, Graphql, React Native and more...",
+            "priority": "Medium"         
+        }
+    ]
+}
